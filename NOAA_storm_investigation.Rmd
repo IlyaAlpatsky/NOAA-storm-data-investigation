@@ -1,0 +1,11 @@
+---
+title: 'Explore the NOAA Storm Database to investigate event and negative result relationship'
+author: "Ilya Alpatskyi"
+date: "1/2/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
